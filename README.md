@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
+## 🚀 About Me
+Hi there! I'm **Sangeetha**, a DevOps enthusiast currently diving into the world of AWS and beyond. With a curious mind and a passion for continuous improvement, I'm on a journey to master DevOps and contribute to exciting projects.
 
-<!--
-**Sangeetha2001/Sangeetha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 What I’m Working On
+- **Currently Learning:** Fullstack DevOps at [Sloopstash](https://github.com/sloopstash)
+- **Exploring:** AWS and new technologies
+- **Projects:** Containerizing the Data Lake stack (Elasticsearch cluster) with Docker & Automate Windows 10 desktop VM provisioning
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Operating System:** Linux
+- **DevOps Tools:** Docker, Kubernetes
+- **Programming Languages:** Python, Bash, Ruby
+- **Cloud Platforms:** AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sangeetha-g-629845190)
+
+## 📫 How to Reach Me
+Feel free to contact me via email at [45sangee@gmail.com](mailto:45sangee@gmail.com).
